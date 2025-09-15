@@ -9,7 +9,7 @@ As part of the project, we also implemented a content-based recommendation syste
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TdTkLa6-xW7HLqJOiarvxjOCdT8c_Lye?usp=sharing)
 
-## 💬👍👎 Airbnb Listings Sentiment Analysis
+## 💬👍👎 Airbnb Listings Sentiment Classification
 This project builds on our previous analysis of Airbnb listings in Athens, focusing on guest review comments and their sentiment.
 
 Our goal was to study how guest sentiment evolved between 2019 and 2023 and uncover patterns that could provide insights for hosts.
