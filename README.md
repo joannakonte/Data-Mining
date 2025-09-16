@@ -20,5 +20,5 @@ We applied several **text preprocessing techniques** and experimented with both 
 
 ## 👩‍💻 Authors
 
-* [Ioanna Kontemeniotis](https://github.com/joannakonte)
 * [Anna Kosmidi](https://github.com/annakosm)
+* [Ioanna Kontemeniotis](https://github.com/joannakonte)
